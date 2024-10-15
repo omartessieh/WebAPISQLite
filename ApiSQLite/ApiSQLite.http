@@ -1,0 +1,6 @@
+@ApiSQLite_HostAddress = http://localhost:5051
+
+GET {{ApiSQLite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
